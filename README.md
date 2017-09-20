@@ -17,4 +17,4 @@ Instant Payment Notification (IPN) is a message service that notifies you of eve
 2、调用Paypal_IPN类中的process函数，传入$ipn_post_data，如果验证成功则返回以关联数组组织的交易数据，失败则返回FALSE。
 
 
-3、更加详细教程请见：http://ethanblog.com/tech/webdev/php-for-paypal-instant-payment-notification.html
+3、更加详细教程请见：http://ethanblog.com/tech/php-for-paypal-instant-payment-notification.html
